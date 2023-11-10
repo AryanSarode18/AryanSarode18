@@ -13,6 +13,17 @@
 
 - 📫 How to reach me **aryansarode18@gmail.com**
 
+<h2>Future Projects</h2>
+
+- Dice Roller
+- Calendar
+- Contact Book
+- Unit Converter
+- Number Guesser
+- File Organizer (Put Different Types of Extensions in One Folder)
+- YouTube Video Downloader (MP4, MP3)
+- Full-Featured Clock (Timer, Stopwatch, Clock)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/aryansarode18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/aryansarode18" height="30" width="40" /></a>
