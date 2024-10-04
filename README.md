@@ -5,7 +5,7 @@
 
 - 🙄 I’m currently working on [Roots and Shoots Project](https://aryansarode18.github.io/Roots-and-Shoots/)
 
-- 🌱 I’m currently learning ** Advanced JavaScript**
+- 🌱 I’m currently learning **Advanced JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryanSarode18](https://github.com/AryanSarode18)
 
