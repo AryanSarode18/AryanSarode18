@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderboy18&label=Profile%20views&color=0e75b6&style=flat" alt="coderboy18" /> </p>
 
-- 🙄 I’m currently working on [IIT Kanpur Antargani Project]
+- 🙄 I’m currently working on [IIT Kanpur Antargani Project](https://www.codingal.com/competitions/iit-kanpur-code-clash-championship/)
 
 - 🌱 I’m currently learning **Advanced JavaScript**
 
